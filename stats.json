@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-07T12:11:11.184Z",
+  "timestamp": "2025-06-07T12:17:42.398Z",
   "latestMatch": {
     "id": "447538543870170",
     "type": "league",
@@ -18,11 +18,6 @@
       "goalsPerGame": "1.14",
       "assistsPerGame": "0.61",
       "contributionsPerGame": "1.75",
-      "tackles": 0,
-      "interceptions": 0,
-      "blocks": 0,
-      "shotsOnTarget": 0,
-      "saves": 0,
       "manOfTheMatch": "6",
       "ratingAve": "8.2"
     },
@@ -35,11 +30,6 @@
       "goalsPerGame": "0.68",
       "assistsPerGame": "0.61",
       "contributionsPerGame": "1.29",
-      "tackles": 0,
-      "interceptions": 0,
-      "blocks": 0,
-      "shotsOnTarget": 0,
-      "saves": 0,
       "manOfTheMatch": "15",
       "ratingAve": "7.9"
     },
@@ -52,11 +42,6 @@
       "goalsPerGame": "0.92",
       "assistsPerGame": "0.51",
       "contributionsPerGame": "1.43",
-      "tackles": 0,
-      "interceptions": 0,
-      "blocks": 0,
-      "shotsOnTarget": 0,
-      "saves": 0,
       "manOfTheMatch": "57",
       "ratingAve": "8.5"
     },
@@ -69,11 +54,6 @@
       "goalsPerGame": "0.63",
       "assistsPerGame": "0.94",
       "contributionsPerGame": "1.57",
-      "tackles": 0,
-      "interceptions": 0,
-      "blocks": 0,
-      "shotsOnTarget": 0,
-      "saves": 0,
       "manOfTheMatch": "54",
       "ratingAve": "8.2"
     },
@@ -86,13 +66,21 @@
       "goalsPerGame": "0.28",
       "assistsPerGame": "0.17",
       "contributionsPerGame": "0.44",
-      "tackles": 0,
-      "interceptions": 0,
-      "blocks": 0,
-      "shotsOnTarget": 0,
-      "saves": 0,
       "manOfTheMatch": "0",
       "ratingAve": "6.8"
     }
+  },
+  "clubStats": {
+    "bestDivision": "3",
+    "gamesPlayed": "258",
+    "wins": "134",
+    "losses": "99",
+    "ties": "25",
+    "goals": "812",
+    "goalsAgainst": "765",
+    "promotions": "13",
+    "relegations": "0",
+    "skillRating": "2025",
+    "reputationTier": "2"
   }
 }
