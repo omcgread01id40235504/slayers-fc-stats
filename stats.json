@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-07T10:32:39.824Z",
+  "timestamp": "2025-06-07T10:49:46.994Z",
   "latestMatch": {
     "id": "447538543870170",
     "type": "league",
@@ -11,6 +11,7 @@
   "membersStats": {
     "OranPatrick4": {
       "name": "Oran",
+      "proName": "D. Healy",
       "gamesPlayed": "139",
       "goals": "158",
       "assists": "85",
@@ -19,6 +20,7 @@
     },
     "Oisin202": {
       "name": "Oisin",
+      "proName": "P. Dragonslayer",
       "gamesPlayed": "235",
       "goals": "160",
       "assists": "143",
@@ -27,6 +29,7 @@
     },
     "McElduff716": {
       "name": "Ryan",
+      "proName": "H. Maguire",
       "gamesPlayed": "261",
       "goals": "239",
       "assists": "134",
@@ -35,6 +38,7 @@
     },
     "Hurley1992": {
       "name": "Hurley",
+      "proName": "FA7",
       "gamesPlayed": "258",
       "goals": "163",
       "assists": "243",
