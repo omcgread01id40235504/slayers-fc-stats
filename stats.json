@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-07T12:26:06.143Z",
+  "timestamp": "2025-06-07T13:20:33.306Z",
   "latestMatch": {
     "id": "447538543870170",
     "type": "league",
@@ -10,8 +10,8 @@
   },
   "membersStats": {
     "OranPatrick4": {
-      "name": "OranPatrick4",
-      "proName": "N/A",
+      "name": "Oran",
+      "proName": "D. Healy",
       "gamesPlayed": 139,
       "goals": 158,
       "assists": 85,
@@ -22,8 +22,8 @@
       "ratingAve": "8.2"
     },
     "Oisin202": {
-      "name": "Oisin202",
-      "proName": "N/A",
+      "name": "Oisin",
+      "proName": "P. Dragonslayer",
       "gamesPlayed": 235,
       "goals": 160,
       "assists": 143,
@@ -34,8 +34,8 @@
       "ratingAve": "7.9"
     },
     "McElduff716": {
-      "name": "McElduff716",
-      "proName": "N/A",
+      "name": "Ryan",
+      "proName": "H. Maguire",
       "gamesPlayed": 261,
       "goals": 239,
       "assists": 134,
@@ -46,8 +46,8 @@
       "ratingAve": "8.5"
     },
     "Hurley1992": {
-      "name": "Hurley1992",
-      "proName": "N/A",
+      "name": "Hurley",
+      "proName": "FA7",
       "gamesPlayed": 258,
       "goals": 163,
       "assists": 243,
@@ -58,8 +58,8 @@
       "ratingAve": "8.2"
     },
     "CashiousWardel": {
-      "name": "CashiousWardel",
-      "proName": "N/A",
+      "name": "Casey",
+      "proName": "Diseal",
       "gamesPlayed": 18,
       "goals": 5,
       "assists": 3,
