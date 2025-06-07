@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-06-07T10:32:39.824Z",
+  "latestMatch": {
+    "id": "447538543870170",
+    "type": "league",
+    "result": "1-5",
+    "opponent": "fc legendsss",
+    "timestamp": 1748380212,
+    "outcome": "LOSS"
+  },
+  "membersStats": {
+    "OranPatrick4": {
+      "name": "Oran",
+      "gamesPlayed": "139",
+      "goals": "158",
+      "assists": "85",
+      "manOfTheMatch": "6",
+      "ratingAve": "8.2"
+    },
+    "Oisin202": {
+      "name": "Oisin",
+      "gamesPlayed": "235",
+      "goals": "160",
+      "assists": "143",
+      "manOfTheMatch": "15",
+      "ratingAve": "7.9"
+    },
+    "McElduff716": {
+      "name": "Ryan",
+      "gamesPlayed": "261",
+      "goals": "239",
+      "assists": "134",
+      "manOfTheMatch": "57",
+      "ratingAve": "8.5"
+    },
+    "Hurley1992": {
+      "name": "Hurley",
+      "gamesPlayed": "258",
+      "goals": "163",
+      "assists": "243",
+      "manOfTheMatch": "54",
+      "ratingAve": "8.2"
+    }
+  }
+}
