@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-07T12:02:28.034Z",
+  "timestamp": "2025-06-07T12:05:39.717Z",
   "latestMatch": {
     "id": "447538543870170",
     "type": "league",
@@ -76,6 +76,23 @@
       "saves": 0,
       "manOfTheMatch": "54",
       "ratingAve": "8.2"
+    },
+    "CashiousWardel": {
+      "name": "Casey",
+      "proName": "Diseal",
+      "gamesPlayed": 18,
+      "goals": 5,
+      "assists": 3,
+      "goalsPerGame": "0.28",
+      "assistsPerGame": "0.17",
+      "contributionsPerGame": "0.44",
+      "tackles": 0,
+      "interceptions": 0,
+      "blocks": 0,
+      "shotsOnTarget": 0,
+      "saves": 0,
+      "manOfTheMatch": "0",
+      "ratingAve": "6.8"
     }
   }
 }
